@@ -1,0 +1,4 @@
+framework module DaroCore {
+  header "DaroCore-Swift.h"
+  requires objc
+}
