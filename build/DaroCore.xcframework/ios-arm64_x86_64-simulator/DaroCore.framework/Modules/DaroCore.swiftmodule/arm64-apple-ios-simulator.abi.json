@@ -10750,7 +10750,7 @@
       "kind": "StringLiteral",
       "offset": 67,
       "length": 7,
-      "value": "\"1.0.0\""
+      "value": "\"1.1.0\""
     },
     {
       "filePath": "\/Users\/finn\/Developer\/daroX-iOS\/Projects\/Daro\/Sources\/Core\/Model\/AdRefreshCoordinator.swift",
