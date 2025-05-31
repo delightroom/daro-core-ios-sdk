@@ -27,6 +27,10 @@ git add .
 git commit -m "Bump version to $VERSION"
 git push origin main
 
+# Create a tag and push it
+git tag $VERSION
+git push origin $VERSION
+
 # Check if DaroM.xcframework.zip exists
 if [ ! -f "$SCRIPT_DIR/build/DaroCore.xcframework.zip" ]; then
   echo "$SCRIPT_DIR/build/DaroCore.xcframework.zip file not found"
