@@ -4771,12 +4771,13 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:8DaroCore11AdProvidingP11initialized6configyAA0A13ConfigurationV_tYaF",
-            "mangledName": "$s8DaroCore11AdProvidingP11initialized6configyAA0A13ConfigurationV_tYaF",
+            "usr": "s:8DaroCore11AdProvidingP11initialized6configyAA0A13ConfigurationV_tYaKF",
+            "mangledName": "$s8DaroCore11AdProvidingP11initialized6configyAA0A13ConfigurationV_tYaKF",
             "moduleName": "DaroCore",
             "genericSig": "<τ_0_0 where τ_0_0 : DaroCore.AdProviding>",
             "sugared_genericSig": "<Self where Self : DaroCore.AdProviding>",
             "protocolReq": true,
+            "throwing": true,
             "reqNewWitnessTableEntry": true,
             "funcSelfKind": "NonMutating"
           }
@@ -7972,14 +7973,22 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Var",
-            "usr": "s:8DaroCore0A13ConfigurationV14applovinSDKKeySSvp",
-            "mangledName": "$s8DaroCore0A13ConfigurationV14applovinSDKKeySSvp",
+            "usr": "s:8DaroCore0A13ConfigurationV14applovinSDKKeySSSgvp",
+            "mangledName": "$s8DaroCore0A13ConfigurationV14applovinSDKKeySSSgvp",
             "moduleName": "DaroCore",
             "declAttributes": [
               "HasStorage",
@@ -7995,14 +8004,22 @@
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:8DaroCore0A13ConfigurationV14applovinSDKKeySSvg",
-                "mangledName": "$s8DaroCore0A13ConfigurationV14applovinSDKKeySSvg",
+                "usr": "s:8DaroCore0A13ConfigurationV14applovinSDKKeySSSgvg",
+                "mangledName": "$s8DaroCore0A13ConfigurationV14applovinSDKKeySSSgvg",
                 "moduleName": "DaroCore",
                 "implicit": true,
                 "accessorKind": "get"
@@ -10750,7 +10767,7 @@
       "kind": "StringLiteral",
       "offset": 67,
       "length": 7,
-      "value": "\"1.1.0\""
+      "value": "\"1.1.1\""
     },
     {
       "filePath": "\/Users\/finn\/Developer\/daroX-iOS\/Projects\/Daro\/Sources\/Core\/Model\/AdRefreshCoordinator.swift",
@@ -10818,42 +10835,42 @@
     {
       "filePath": "\/Users\/finn\/Developer\/daroX-iOS\/Projects\/Daro\/Sources\/Core\/Model\/DaroConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 591,
+      "offset": 592,
       "length": 10,
       "value": "\"storeUrl\""
     },
     {
       "filePath": "\/Users\/finn\/Developer\/daroX-iOS\/Projects\/Daro\/Sources\/Core\/Model\/DaroConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 625,
+      "offset": 626,
       "length": 9,
       "value": "\"storeId\""
     },
     {
       "filePath": "\/Users\/finn\/Developer\/daroX-iOS\/Projects\/Daro\/Sources\/Core\/Model\/DaroConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 688,
+      "offset": 689,
       "length": 16,
       "value": "\"applovinSdkKey\""
     },
     {
       "filePath": "\/Users\/finn\/Developer\/daroX-iOS\/Projects\/Daro\/Sources\/Core\/Model\/DaroConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 730,
+      "offset": 731,
       "length": 10,
       "value": "\"apsAppId\""
     },
     {
       "filePath": "\/Users\/finn\/Developer\/daroX-iOS\/Projects\/Daro\/Sources\/Core\/Model\/DaroConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 825,
+      "offset": 826,
       "length": 19,
       "value": "\"smaatoPublisherId\""
     },
     {
       "filePath": "\/Users\/finn\/Developer\/daroX-iOS\/Projects\/Daro\/Sources\/Core\/Model\/DaroConfiguration.swift",
       "kind": "BooleanLiteral",
-      "offset": 896,
+      "offset": 897,
       "length": 5,
       "value": "false"
     },

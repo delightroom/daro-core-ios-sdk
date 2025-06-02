@@ -151,7 +151,7 @@ public protocol AdProviding {
   var sdkVersion: Swift.String { get }
   var mediationPlatform: Swift.String { get }
   var initializedPublisher: Combine.AnyPublisher<Swift.Bool, any Swift.Error> { get }
-  func initialized(config: DaroCore.DaroConfiguration) async
+  func initialized(config: DaroCore.DaroConfiguration) async throws
 }
 public struct DaroAdInfo {
   public let adFormat: DaroCore.DaroAdFormat
@@ -216,7 +216,7 @@ public struct DaroAdUnitItem : Swift.Codable {
 }
 public struct DaroConfiguration : Swift.Decodable {
   public let appKey: Swift.String
-  public let applovinSDKKey: Swift.String
+  public let applovinSDKKey: Swift.String?
   public let apsAppID: Swift.String?
   public let verveToken: Swift.String?
   public let smaatoPublisherID: Swift.String?
