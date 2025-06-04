@@ -136,7 +136,7 @@ public struct DaroAdNative {
     get
     set
   }
-  convenience public init(appKey: Swift.String, adProvider: any DaroCore.AdProviding)
+  convenience public init(adProvider: any DaroCore.AdProviding)
   final public func apsSlotUUID(adFormat: DaroCore.DaroAdFormat) -> Swift.String?
   final public func initialized(completion: @escaping @_Concurrency.MainActor (DaroCore.DaroError?) -> Swift.Void)
   @objc deinit

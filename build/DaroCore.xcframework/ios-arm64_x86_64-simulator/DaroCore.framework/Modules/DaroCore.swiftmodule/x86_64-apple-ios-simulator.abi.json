@@ -4191,7 +4191,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(appKey:adProvider:)",
+            "printedName": "init(adProvider:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -4201,20 +4201,14 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              },
-              {
-                "kind": "TypeNominal",
                 "name": "AdProviding",
                 "printedName": "any DaroCore.AdProviding",
                 "usr": "s:8DaroCore11AdProvidingP"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:8DaroCore0A7ServiceC6appKey10adProviderACSS_AA11AdProviding_ptcfc",
-            "mangledName": "$s8DaroCore0A7ServiceC6appKey10adProviderACSS_AA11AdProviding_ptcfc",
+            "usr": "s:8DaroCore0A7ServiceC10adProviderAcA11AdProviding_p_tcfc",
+            "mangledName": "$s8DaroCore0A7ServiceC10adProviderAcA11AdProviding_p_tcfc",
             "moduleName": "DaroCore",
             "declAttributes": [
               "Convenience",
@@ -10767,7 +10761,7 @@
       "kind": "StringLiteral",
       "offset": 67,
       "length": 7,
-      "value": "\"1.1.1\""
+      "value": "\"1.1.2\""
     },
     {
       "filePath": "\/Users\/finn\/Developer\/daroX-iOS\/Projects\/Daro\/Sources\/Core\/Model\/AdRefreshCoordinator.swift",
