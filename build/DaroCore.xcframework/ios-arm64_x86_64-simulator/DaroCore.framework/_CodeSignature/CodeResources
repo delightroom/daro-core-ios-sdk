@@ -14,7 +14,7 @@
 		</data>
 		<key>Modules/DaroCore.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		CsplTR0pL7PB+lDQDIYxZl8oRx8=
+		cUbjknYt4dwBbFjsxTAtxpKlGao=
 		</data>
 		<key>Modules/DaroCore.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/DaroCore.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ho9uVG94BgQRD/a6IfdRohS4mNs=
+		n8POKaS71W1mp2ef5Q8s15NjCxM=
 		</data>
 		<key>Modules/DaroCore.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		CsplTR0pL7PB+lDQDIYxZl8oRx8=
+		cUbjknYt4dwBbFjsxTAtxpKlGao=
 		</data>
 		<key>Modules/DaroCore.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/DaroCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		iTSa3p2Fm/vf4mfTkJ+9PE2APJY=
+		oTDgHVJRZJYba9tM/rZxkE6nLkw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -74,11 +74,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CsplTR0pL7PB+lDQDIYxZl8oRx8=
+			cUbjknYt4dwBbFjsxTAtxpKlGao=
 			</data>
 			<key>hash2</key>
 			<data>
-			LEYfojmncWeUUZiZepfT71ipW9iDZJdPwB5hNom2QGg=
+			rvVXTBnLpjwCrBgXFDz+NVe64NMgPKAfeXpxmJ9hti8=
 			</data>
 		</dict>
 		<key>Modules/DaroCore.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -118,22 +118,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ho9uVG94BgQRD/a6IfdRohS4mNs=
+			n8POKaS71W1mp2ef5Q8s15NjCxM=
 			</data>
 			<key>hash2</key>
 			<data>
-			bNeea53tifIjrRPPQqQlkOzid8yDtVTIB20DJdB7v/s=
+			eIhH10L7jDEdiE5M/0HjDPcpL13OIgC5KkAOJ0Wt8n4=
 			</data>
 		</dict>
 		<key>Modules/DaroCore.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CsplTR0pL7PB+lDQDIYxZl8oRx8=
+			cUbjknYt4dwBbFjsxTAtxpKlGao=
 			</data>
 			<key>hash2</key>
 			<data>
-			LEYfojmncWeUUZiZepfT71ipW9iDZJdPwB5hNom2QGg=
+			rvVXTBnLpjwCrBgXFDz+NVe64NMgPKAfeXpxmJ9hti8=
 			</data>
 		</dict>
 		<key>Modules/DaroCore.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -173,11 +173,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iTSa3p2Fm/vf4mfTkJ+9PE2APJY=
+			oTDgHVJRZJYba9tM/rZxkE6nLkw=
 			</data>
 			<key>hash2</key>
 			<data>
-			PUpDqjf2UqgLcee7zDLdafGiAzB9h3IXY1c9V1/jATE=
+			p1dPNToPWwtE3FVkmy7gRK61T9eZcAwXE21X88FoZTU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
