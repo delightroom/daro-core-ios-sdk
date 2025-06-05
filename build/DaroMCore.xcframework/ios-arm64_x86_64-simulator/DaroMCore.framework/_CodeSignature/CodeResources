@@ -10,7 +10,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		NQf4T3DClU76yWevqKosJd7mmyE=
+		5Y+4BCmsxyfYl+b+4/WSpRG7UDg=
 		</data>
 		<key>Modules/DaroCore.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/DaroCore.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ho9uVG94BgQRD/a6IfdRohS4mNs=
+		ECX5foDhraKJl7xyMpYavuujh3E=
 		</data>
 		<key>Modules/DaroCore.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/DaroCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		iTSa3p2Fm/vf4mfTkJ+9PE2APJY=
+		/YPIwWxyGzGtgJsF/TOTqiC4LMw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -61,10 +61,6 @@
 	<dict>
 		<key>Headers/DaroCore-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			n1W/dkoWL/t6F0CAsCXoisBydzE=
-			</data>
 			<key>hash2</key>
 			<data>
 			qcSqWq2+8hU96JEk1DU0lWSvyJdkjzJQAqWaZajD0+A=
@@ -72,10 +68,6 @@
 		</dict>
 		<key>Modules/DaroCore.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CsplTR0pL7PB+lDQDIYxZl8oRx8=
-			</data>
 			<key>hash2</key>
 			<data>
 			LEYfojmncWeUUZiZepfT71ipW9iDZJdPwB5hNom2QGg=
@@ -83,10 +75,6 @@
 		</dict>
 		<key>Modules/DaroCore.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JqiMTmyt7AI8USKATxM7QCrzjEE=
-			</data>
 			<key>hash2</key>
 			<data>
 			ZhP/Y+n/xsoUTmj45jgJF6bPsbXe7jcbnZfcaVYSwfQ=
@@ -94,10 +82,6 @@
 		</dict>
 		<key>Modules/DaroCore.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PyS79ArY7OihJy+dIpCecaepmF8=
-			</data>
 			<key>hash2</key>
 			<data>
 			AkVOhPKtk/UNA9BHuKCynUHgdW7/sQ1jOmHRsaePWmc=
@@ -105,10 +89,6 @@
 		</dict>
 		<key>Modules/DaroCore.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JqiMTmyt7AI8USKATxM7QCrzjEE=
-			</data>
 			<key>hash2</key>
 			<data>
 			ZhP/Y+n/xsoUTmj45jgJF6bPsbXe7jcbnZfcaVYSwfQ=
@@ -116,21 +96,13 @@
 		</dict>
 		<key>Modules/DaroCore.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ho9uVG94BgQRD/a6IfdRohS4mNs=
-			</data>
 			<key>hash2</key>
 			<data>
-			bNeea53tifIjrRPPQqQlkOzid8yDtVTIB20DJdB7v/s=
+			FxNvqQsSXZHf7Xw9aFi3te1ofiRAFUrTGatisejU+z0=
 			</data>
 		</dict>
 		<key>Modules/DaroCore.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CsplTR0pL7PB+lDQDIYxZl8oRx8=
-			</data>
 			<key>hash2</key>
 			<data>
 			LEYfojmncWeUUZiZepfT71ipW9iDZJdPwB5hNom2QGg=
@@ -138,10 +110,6 @@
 		</dict>
 		<key>Modules/DaroCore.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RE2itGFPRhQv+ocSN4LIYyFeQSQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			w5fth9pxa8eJUizGjqIDG3vbFrbCM2cwvoF6NXGxCpw=
@@ -149,10 +117,6 @@
 		</dict>
 		<key>Modules/DaroCore.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xC3nlIEyPfAv4fpkqpfgVpBKQQo=
-			</data>
 			<key>hash2</key>
 			<data>
 			tZuD+2YtNGGRFBIgO8/SZUWujcWA/gNSsJF67drxDRA=
@@ -160,10 +124,6 @@
 		</dict>
 		<key>Modules/DaroCore.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RE2itGFPRhQv+ocSN4LIYyFeQSQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			w5fth9pxa8eJUizGjqIDG3vbFrbCM2cwvoF6NXGxCpw=
@@ -171,21 +131,13 @@
 		</dict>
 		<key>Modules/DaroCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			iTSa3p2Fm/vf4mfTkJ+9PE2APJY=
-			</data>
 			<key>hash2</key>
 			<data>
-			PUpDqjf2UqgLcee7zDLdafGiAzB9h3IXY1c9V1/jATE=
+			S40jz+2YxsIzGgwTeXlSXEfb930nCLRCZEaAH2Na78I=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rmLC/iBz291wpcHq7spri/8v/Os=
-			</data>
 			<key>hash2</key>
 			<data>
 			CNKt4Cd03QNn52oILArJ20ZCrnGMkUPvdtd+f9InBR0=
